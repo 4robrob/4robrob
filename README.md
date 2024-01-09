@@ -15,7 +15,7 @@
   </a>
 </div>
 
-👋 Hi, I’m Robrob, 18 year old boy from rural Germany
+👋 Hi, I’m Robrob, 
 
 👀 Also I’m interested in gaming and coding while,
 
