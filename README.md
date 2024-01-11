@@ -13,13 +13,16 @@
   <a href="https://github.com/4robrob">
     <img src="https://komarev.com/ghpvc/?username=4robrob&style=flat-square&color=grey" alt="Page Views Badge"/>
   </a>
+  
 </div>
 <div id="me" align="center">
-👋 Hi, I’m Robrob, 
+  
+👋 Hi, I’m Robrob.
 
-👀 Also I’m interested in gaming and coding while,
+👀 I'm interested in gaming and coding, while
 
-🌱 I’m currently learning for my high-school diploma.
+🌱 currently learning for my high school diploma.
+
 
 :mailbox: How to reach me: 
 
