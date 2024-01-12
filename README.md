@@ -36,7 +36,7 @@
   # Here some stats
 ![Robrob's GitHub stats](https://github-readme-stats.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4robrob&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4robrob&layout=compact&theme=highcontrast)]
 
-[![Robrob's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Robrob&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Robrob's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Robrob&theme=highcontrast)]
 </div>
