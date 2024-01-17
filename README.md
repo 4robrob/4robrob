@@ -27,6 +27,7 @@
 :mailbox: How to reach me: 
 
 [![Discord](https://img.shields.io/badge/-Add_me_on_Discord-royalblue?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/508758672449732611) [![Steam](https://img.shields.io/badge/-Message_me_on_Steam-navy?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/4rob/) 
+<!-- [![Mail](https://img.shields.io/badge/Write_an_email-blue?style=flat-square&logo=Outlook&logoColor=white)](mailto:robrob.git@outlook.com) -->
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/508758672449732611)](https://discord.com/users/508758672449732611)
 </div>
@@ -36,7 +37,7 @@
   # Here some stats
 ![Robrob's GitHub stats](https://github-readme-stats.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4robrob&layout=compact&theme=highcontrast)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4robrob&layout=compact&theme=highcontrast)
 
 ![Robrob's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Robrob&theme=highcontrast)
-</div>
+</div> -->
