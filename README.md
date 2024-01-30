@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<!--
 <div id="badges" align="center">
   <a href="https://steamcommunity.com/id/4rob/">
     <img src="https://img.shields.io/badge/steam-navy?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
@@ -9,6 +10,7 @@
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   </div>
+  -->
 <div id="badges" align="center">
   <a href="https://github.com/4robrob">
     <img src="https://komarev.com/ghpvc/?username=4robrob&style=flat-square&color=grey" alt="Page Views Badge"/>
