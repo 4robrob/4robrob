@@ -26,7 +26,7 @@
   <summary>🕦Recent Activity </summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/SchulerSimon/fyoutoo/pull/11) in [SchulerSimon/fyoutoo](https://github.com/SchulerSimon/fyoutoo)
+1. ❗ Opened issue [#77](https://github.com/novatorem/novatorem/issues/77) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--END_SECTION:activity-->
 
 </details>
