@@ -25,7 +25,6 @@
 
 🌱 currently learning for my high school diploma.
 
-
 :mailbox: How to reach me: 
 
 [![Discord](https://img.shields.io/badge/-Add_me_on_Discord-royalblue?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/508758672449732611) [![Steam](https://img.shields.io/badge/-Message_me_on_Steam-navy?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/4rob/) [![Outlook](https://img.shields.io/badge/Write_an_email-005FF9?style=flat-square&logo=maildotru&logoColor=#005FF9)](mailto:robrob.git@outlook.com)
