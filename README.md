@@ -35,8 +35,20 @@
 
 <div id="stats" align="center">
 
-  # Here some stats
-![Robrob's GitHub stats](https://github-readme-stats-blue-one-66.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast)
+<details>
+  <summary>⚡Github Stats</summary>
+  
+<img align="mid" alt="Robrob's Github Stats" src="https://github-readme-stats-blue-one-66.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast" />
+  
+</details>
+
+<details>
+  <summary>⚡Recent Activity </summary>
+ <div align="mid">
+  <!--START_SECTION:activity-->
+</div>
+</details>
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4robrob&layout=compact&theme=highcontrast)
 
