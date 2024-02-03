@@ -17,7 +17,7 @@
 🌱 currently learning for my high school diploma.
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-ywki.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/wiqgsrizkomfwxplakt144056?si=feb98bec8d9d465b)
+[![Spotify](https://novatorem-ywki.vercel.app/api/spotify/?background_color=8b0000&border_color=000000)](https://open.spotify.com/user/wiqgsrizkomfwxplakt144056?si=feb98bec8d9d465b)
 
 
 <details>
