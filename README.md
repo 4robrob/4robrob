@@ -23,7 +23,7 @@
 </details>
 
 <details>
-  <summary>🕦Recent Activity </summary>
+  <summary>:zap: Recent Activity </summary>
   
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#77](https://github.com/novatorem/novatorem/issues/77) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
