@@ -1,10 +1,6 @@
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
-
 <div id="me" align="center">
   
-### 👋 Hi, I’m Robrob.
+### 👋 Hi, I’m Robrob
 
 I'm a student interested in gaming and coding, while currently learning for my high school diploma. There is nothing much on here public, hopefully that'll change, but most of my current repositories contain private stuff or work in progress projects.
 
@@ -42,7 +38,6 @@ I'm a student interested in gaming and coding, while currently learning for my h
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-ywki.vercel.app/api/spotify/?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/wiqgsrizkomfwxplakt144056?si=feb98bec8d9d465b)
 
-
 <!--
 <details>
   <summary>⚡ Top Langs</summary>
@@ -51,16 +46,12 @@ I'm a student interested in gaming and coding, while currently learning for my h
  
 </details>
 
-<!-- 
-
 <details>
   <summary>⚡ WakaTime stats</summary>
-  
   <div id="stats" align="center">
     
 ![Robrob's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Robrob&theme=highcontrast)
-    
+  
 </div> 
 </details>
-
 -->
