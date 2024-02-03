@@ -1,6 +1,12 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
+
+<div id="me" align="center">
+  
+### 👋 Hi, I’m Robrob.
+
+I'm interested in gaming and coding, while currently learning for my high school diploma. There is nothing much on here public, hopefully that'll change, but most of my current repositories contain private stuff or work in progress projects.
 
 <div id="badges" align="center">
   <a href="https://github.com/4robrob">
@@ -8,26 +14,25 @@
   </a>
   
 </div>
-<div id="me" align="center">
-  
-👋 Hi, I’m Robrob.
-
-👀 I'm interested in gaming and coding, while
-
-🌱 currently learning for my high school diploma.
-
 <details>
-  <summary>🕐 Discord Activity </summary>
+  <summary> Current Discord Activity </summary>
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/508758672449732611)](https://discord.com/users/508758672449732611)
 </details>
 
 <details>
-  <summary>:zap: Recent Activity </summary>
+  <summary> Recent Github Activity </summary>
   
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#77](https://github.com/novatorem/novatorem/issues/77) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary> Github Stats</summary>
+  
+<img height="180" weight="300" align="mid" alt="Robrob's Github Stats" src="https://github-readme-stats-blue-one-66.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast" />
 
 </details>
 
@@ -36,10 +41,6 @@
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-ywki.vercel.app/api/spotify/?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/wiqgsrizkomfwxplakt144056?si=feb98bec8d9d465b)
-
-
-### Github Stats
-<img height="180" weight="300" align="mid" alt="Robrob's Github Stats" src="https://github-readme-stats-blue-one-66.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast" />
 
 
 <!--
