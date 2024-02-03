@@ -25,11 +25,9 @@
 [![Spotify](https://novatorem-ywki.vercel.app/api/spotify/?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/wiqgsrizkomfwxplakt144056?si=feb98bec8d9d465b)
 
 
-<details>
-  <summary>⚡ Github Stats</summary>
-  
-<img align="mid" alt="Robrob's Github Stats" src="https://github-readme-stats-blue-one-66.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast" />
-</details>
+### Github Stats
+<img height="180" weight="300" align="mid" alt="Robrob's Github Stats" src="https://github-readme-stats-blue-one-66.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast" />
+
 
 <details>
   <summary>🕐 Discord Activity </summary>
