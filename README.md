@@ -17,7 +17,7 @@ I'm a student interested in gaming and coding, while currently learning for my h
 </details>
 
 <details>
-  <summary> Recent Github Activity </summary>
+  <summary> Recent Public Github Activity </summary>
   
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#77](https://github.com/novatorem/novatorem/issues/77) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
