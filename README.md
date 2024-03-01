@@ -10,6 +10,15 @@ I'm a student interested in gaming and coding, while currently learning for my h
   </a>
   
 </div>
+
+<details>
+  <summary> :mailbox: How to reach me</summary> 
+  
+[![Discord](https://img.shields.io/badge/-Add_me_on_Discord-royalblue?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/508758672449732611) [![Steam](https://img.shields.io/badge/-Message_me_on_Steam-navy?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/4rob/) [![Outlook](https://img.shields.io/badge/Write_an_email-005FF9?style=flat-square&logo=maildotru&logoColor=#005FF9)](mailto:robrob.git@outlook.com)
+  
+</details>
+
+
 <details>
   <summary> Current Discord Activity </summary>
   
@@ -32,12 +41,12 @@ I'm a student interested in gaming and coding, while currently learning for my h
 
 </details>
 
-### :mailbox: How to reach me:
-[![Discord](https://img.shields.io/badge/-Add_me_on_Discord-royalblue?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/508758672449732611) [![Steam](https://img.shields.io/badge/-Message_me_on_Steam-navy?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/4rob/) [![Outlook](https://img.shields.io/badge/Write_an_email-005FF9?style=flat-square&logo=maildotru&logoColor=#005FF9)](mailto:robrob.git@outlook.com)
-
-### Spotify Playing 🎧
+<details>
+  <summary> 🎧 Spotify Playing </summary> 
+  
 [![Spotify](https://novatorem-ywki.vercel.app/api/spotify/?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/wiqgsrizkomfwxplakt144056?si=feb98bec8d9d465b)
 
+</details>
 <!--
 <details>
   <summary>⚡ Top Langs</summary>
