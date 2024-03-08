@@ -34,12 +34,13 @@ I'm a student interested in gaming and coding, while currently learning for my h
 
 </details>
 
-<details>
+<!--<details>
   <summary> Github Stats</summary>
   
 <img height="180" weight="300" align="mid" alt="Robrob's Github Stats" src="https://github-readme-stats-blue-one-66.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast" />
 
 </details>
+-->
 
 <details>
   <summary> 🎧 Spotify Playing </summary> 
@@ -47,6 +48,8 @@ I'm a student interested in gaming and coding, while currently learning for my h
 [![Spotify](https://novatorem-ywki.vercel.app/api/spotify/?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/wiqgsrizkomfwxplakt144056?si=feb98bec8d9d465b)
 
 </details>
+
+
 <!--
 <details>
   <summary>⚡ Top Langs</summary>
@@ -54,7 +57,10 @@ I'm a student interested in gaming and coding, while currently learning for my h
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4robrob&layout=compact&theme=highcontrast)
  
 </details>
+-->
 
+
+<!--
 <details>
   <summary>⚡ WakaTime stats</summary>
   <div id="stats" align="center">
@@ -62,5 +68,5 @@ I'm a student interested in gaming and coding, while currently learning for my h
 ![Robrob's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Robrob&theme=highcontrast)
   
 </div> 
-</details>
+</details> 
 -->
