@@ -2,7 +2,7 @@
   
 ### 👋 Hi, I’m Robrob
 
-I'm a student interested in gaming and coding, while currently learning for my high school diploma. There is nothing much on here public, hopefully that'll change, but most of my current repositories contain private stuff or work in progress projects.
+I'm a student interested in gaming and coding, while currently searching for a university. There is nothing much on here public, hopefully that'll change, but most of my current repositories contain private stuff or work in progress projects.
 
 <div id="badges" align="center">
   <a href="https://github.com/4robrob">
