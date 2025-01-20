@@ -11,6 +11,8 @@ I'm a student interested in gaming and coding, while currently studying computer
   
 </div>
 
+
+<!--
 <details>
   <summary> :mailbox: How to reach me</summary> 
   
@@ -24,6 +26,7 @@ I'm a student interested in gaming and coding, while currently studying computer
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/508758672449732611)](https://discord.com/users/508758672449732611)
 </details>
+-->
 
 <details>
   <summary> Recent Public Github Activity </summary>
