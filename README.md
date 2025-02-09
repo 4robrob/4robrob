@@ -37,7 +37,8 @@ I'm a student interested in gaming and coding, while currently studying computer
 
 </details>
 
-<!--<details>
+<!--
+<details>
   <summary> Github Stats</summary>
   
 <img height="180" weight="300" align="mid" alt="Robrob's Github Stats" src="https://github-readme-stats-blue-one-66.vercel.app/api?username=4robrob&show_icons=true&theme=highcontrast" />
@@ -53,21 +54,18 @@ I'm a student interested in gaming and coding, while currently studying computer
 </details>
 
 
-<!--
-<details>
-  <summary>⚡ Top Langs</summary>
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4robrob&layout=compact&theme=highcontrast)
- 
-</details>
--->
-
 <details>
   <summary>⚡ WakaTime stats</summary>
   <div id="stats" align="center">
     
-![Robrob's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Robrob&theme=highcontrast)
-  
+![Robrob's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Robrob&theme=vision-friendly-dark)
+
+<!--
+<div id="stats" align="center">
+
+![Robrob's WakaTime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4robrob&wakatime?username=@Robrob&theme=vision-friendly-dark)
+-->
+ 
 </div> 
 </details> 
 
