@@ -62,8 +62,6 @@ I'm a student interested in gaming and coding, while currently studying computer
 </details>
 -->
 
-
-<!--
 <details>
   <summary>⚡ WakaTime stats</summary>
   <div id="stats" align="center">
@@ -72,4 +70,4 @@ I'm a student interested in gaming and coding, while currently studying computer
   
 </div> 
 </details> 
--->
+
