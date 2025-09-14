@@ -27,16 +27,20 @@ I'm a 19 y/o student interested in gaming and coding, while currently studying B
 [![Discord Presence](https://lanyard.cnrad.dev/api/508758672449732611)](https://discord.com/users/508758672449732611)
 </details>
 -->
-
+<!--
 <details>
   <summary> Recent Public Github Activity </summary>
   
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity--> 
+<!--
+
 1. ❗ Opened issue [#77](https://github.com/novatorem/novatorem/issues/77) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+
+-->
 <!--END_SECTION:activity-->
-
+<!--
 </details>
-
+-->
 <!--
 <details>
   <summary> Github Stats</summary>
