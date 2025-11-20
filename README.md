@@ -2,7 +2,7 @@
   
 ### 👋 Hi, I’m Robrob
 
-I'm a 19 y/o student interested in gaming and coding, while currently studying Business Administration and Engineering [@Karlsruhe Institute of Technology](https://www.kit.edu/english/). There is nothing much on here public, hopefully that'll change, but most of my current repositories contain private stuff or work in progress projects.
+I'm a 20 y/o student interested in gaming and coding, while currently studying Business Administration and Engineering [@Karlsruhe Institute of Technology](https://www.kit.edu/english/). There is nothing much on here public, hopefully that'll change, but most of my current repositories contain private stuff or work in progress projects.
 
 <div id="badges" align="center">
   <a href="https://github.com/4robrob">
