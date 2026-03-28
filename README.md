@@ -52,6 +52,7 @@ I'm a 20 y/o student interested in gaming and coding, while currently studying B
 </details>
 -->
 
+<!--
 <details>
   <summary> Spotify Playing </summary> 
   
